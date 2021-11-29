@@ -1,7 +1,10 @@
 # DartLanguage
 Se muestran ejemplos del lenguaje como tipos de datos, estructuras de control, funciones , iteradores, clases ,streams entre otros.
 
+> Funte Curso Dart de 0 hasta los detalles,Fernando Herrera.
+> 
 Este repositorio es util para quienes deseen aprender este lenguaje y utilizarlo con el SDK de FLUTTER para el desarrollo de aplicaciones moviles o web.
+
 
 **Sobre Dart**
 
